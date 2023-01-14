@@ -1,15 +1,15 @@
 @font-face {
     font-family: "c";
-    src: url(/fonts/Pacifico-Regular.ttf);
+    src: url(fonts/Pacifico-Regular.ttf);
 }
 @font-face {
     font-family: "l";
-    src: url(/fonts/AbrilFatface-Regular.ttf);
+    src: url(fonts/AbrilFatface-Regular.ttf);
 }
 
 @font-face {
     font-family: 'oio';
-    src: url(/fonts/Cairo-VariableFont_slnt\,wght.ttf);
+    src: url(fonts/Cairo-VariableFont_slnt\,wght.ttf);
 }
 *{
     margin: 0;
@@ -55,7 +55,7 @@ h1{
 
 }
 .k {
-    background-image: url(/imgs/k.avif);
+    background-image: url(imgs/k.avif);
     background-color: rgba(0,0,0,.4);
     background-blend-mode: multiply;
     background-size:100% ;
